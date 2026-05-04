@@ -1,0 +1,17 @@
+# Core dependencies
+streamlit>=1.24.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+plotly>=5.14.0
+
+# Data collection
+requests>=2.28.0
+beautifulsoup4>=4.12.0
+
+# Notebooks
+jupyter>=1.0.0
+ipykernel>=6.22.0
+
+# Utilities
+python-dateutil>=2.8.0
