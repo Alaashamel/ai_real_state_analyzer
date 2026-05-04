@@ -13,8 +13,10 @@ ENV/
 # Data & models
 data/raw/*
 !data/raw/.gitkeep
+!data/raw/sample_*.json
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/final_dataset.csv
 models/*
 !models/.gitkeep
 !models/price_predictor.pkl
