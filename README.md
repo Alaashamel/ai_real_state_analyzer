@@ -1,5 +1,8 @@
 # Real Estate Valuation AI
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Language](https://img.shields.io/badge/language-Python-informational.svg) ![Last Commit](https://img.shields.io/github/last-commit/Alaashamel/ai_real_state_analyzer)
+
+
 Professional machine learning system for predicting residential property values using structured features.
 
 ## Features
